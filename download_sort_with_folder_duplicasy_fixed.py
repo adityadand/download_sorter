@@ -92,4 +92,5 @@ print(f"\n📊 SUMMARY:")
 print(f"Files moved: {moved_files}")
 print(f"Files skipped: {skipped_files}")
 print(f"Folders moved: {moved_folders}")
-print(f"Folders skipped: {skipped_folders
+print(f"Folders skipped: {skipped_folders}")
+print("\n✅ Transfer completed!")
